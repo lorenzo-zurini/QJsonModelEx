@@ -32,7 +32,7 @@
 #include <QJsonDocument>
 #include <QJsonObject>
 
-#include "details/QUtf8.hpp"
+#include "QUtf8.hpp"
 
 class QJsonModel;
 class QJsonItem;
